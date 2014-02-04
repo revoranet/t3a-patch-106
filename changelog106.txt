@@ -1,0 +1,61 @@
+=====================
+NEW FEATURES
+=====================
+
+- 15 new maps added. Maps have been edited and tested for balance.
+- All unit and hero textures have been upgraded from their original 64x64 resolution to 256x256 resolution.
+- Previously unused hero and unit sounds added (unit and hero salute sounds, several special power voice sounds).
+
+=====================
+GENERAL IMPROVEMENTS
+=====================
+
+- Many House Color textures have been changed to improve color fidelity.
+- Audio notification enabled when an ally places a beacon.
+- Select-All-Heroes hotkey reinstated.
+- Elven Wood and Tainted Land powers house colour FX is brightened to improve visibility. 
+- House Colors made more distinguishable. 
+- Mordor Haradrim Lancer Horde now randomizes between two textures. 
+
+=====================
+BUG FIXES
+=====================
+
+- Movement bug fixed.
+- Removed the "+50% Armor" from Eye of Sauron's tooltip.
+- Rohirrim Armor fixed, now take less HERO damage with both Heavy Armor and Horse Shields (50% in both cases). 
+- Disconnect screen text fixed. 
+- Missing/incomplete text in lotr.str fixed. 
+
+=====================
+NEW MAP LIST
+=====================
+
+2-PLAYER MAPS
+Andrast - Original author: Rimli
+Carnen - Original author: m@tt
+Carrock - Original author: BadMadMax
+Druwaith Iaur Winter - Original author: Naugrim
+
+3-PLAYER MAPS
+Iron Hills - Original author: Haldir
+Tharbad - Original author: Haldir
+
+4-PLAYER MAPS
+Eregion - Original author: Lex Flores
+Fords of Bruinen - Original author: m@tt
+Old Ford of Anduin - Original author: m@tt
+
+5-PLAYER MAPS
+Desolation of Smaug - Original author: Haldir
+
+6-PLAYER MAPS
+Dimrill Dale - Original author: m@tt 
+Lossarnach - Original author: Haldir 
+South Rhun - Original author: Dennis Agodzo
+
+7-PLAYER MAPS
+Minhiriath - Original author: Haldir
+
+8-PLAYER MAPS
+Lamedon - Original author: TheFoeHammer[/spoiler]
