@@ -511,15 +511,15 @@ APT:HostGame
 END
 
 URL:LotrHome
-"http://www.eagames.com/official/lordoftherings/thebattleformiddleearth/us/home.jsp"
+"http://forums.revora.net/forum/2671-t3aonline-support-and-talk/"
 END
 
 URL:LotrLadder
-"http://arena.gamespy.com/bfme/"
+"http://online.the3rdage.net/"
 END
 
 URL:LotrTOS
-"http://www.ea.com/global/legal/tos.jsp"
+"http://online.the3rdage.net/"
 END
 
 GUI:ChatRoom1
@@ -4667,7 +4667,7 @@ TOOLTIP:OnlineShell/OnlineLogin/tooltipRememberMe
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineEAAccountName
-"Register your account with EA. Complete this field with your new account name"
+"Register your account at Revora. Complete this field with your new account name"
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
@@ -4675,7 +4675,7 @@ TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/Register/ButtonClip
-"You must register to play online"
+"You must register at Revora to use T3A:Online"
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/DeleteNickname/Buttonclip
@@ -4683,11 +4683,11 @@ TOOLTIP:OnlineShell/OnlineLogin/Login/DeleteNickname/Buttonclip
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/ServiceTerms/ButtonClip
-""
+"Go to the T3A:Online website for news and instructions"
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/OfficialSite/ButtonClip
-""
+"Go to the T3A:Online support forums at Revora"
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/Login/buttonClip
@@ -14771,7 +14771,7 @@ APT:OnlineProfile
 END
 
 APT:OnlineEAAccountName
-"EA Account Name"
+"Revora Account Name"
 END
 
 APT:WinsNumFormat
@@ -14947,7 +14947,7 @@ APT:NicknameNoCaps
 END
 
 APT:Password
-"Password"
+"T3A:Online Password"
 END
 
 APT:GamePassword
@@ -14975,7 +14975,7 @@ APT:CreateAccount
 END
 
 APT:ServiceTerms
-"SERVICE TERMS"
+"OFFICIAL WEBSITE"
 END
 
 APT:LessDetail
@@ -15063,7 +15063,7 @@ APT:MatchMe
 END
 
 APT:OfficialSite
-"OFFICIAL WEB SITE"
+"SUPPORT FORUMS"
 END
 
 APT:Friends
@@ -15723,7 +15723,7 @@ APT:TermsOfService
 END
 
 APT:ESRBNotice
-"ESRB NOTICE: Game Experience May Change During Online Play"
+"T3A:Online, a community-made BFME server Check online.the3rdage.net for news & more"
 END
 
 APT:Close
