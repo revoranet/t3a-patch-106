@@ -32034,8 +32034,6 @@ controlbar:tooltipguardunit
 "Guard another unit"
 END
 
-;-------------------- New maps 1.06
-;----------------------------------
 Map:MAPMPAndrast
 "Andrast"
 END
@@ -32148,12 +32146,11 @@ Map:MAPMPTharbad/Desc
 "The Old South Road passes through the ancient city of Tharbad, the ruins of its once great bridge now a dangerous ford. Credits: _Haldir_ \n Number of Players: 3 \n Starting Positions: Castles \n Expansion Points: 1 \n Settlements: 15 \n Lairs: Troll and Goblin"
 END
 
-;------------------ Minhiriath still has the bridge bug
-;Map:MAPMPMinhiriath
-;"Minhiriath"
-;END
+Minhiriath still has the bridge bug
+Map:MAPMPMinhiriath
+"Minhiriath"
+END
 
-;Map:MAPMPMinhiriath/Desc
-;"Minhiriath lies between the Greyflood and Brandywine rivers, in the region of Eriador. Once populated, it has since fallen into ruin. Credits: _Haldir_ \n Number of Players: 7 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 21 \n Lairs: Troll and Warg"
-;END
-;-----------------
+Map:MAPMPMinhiriath/Desc
+"Minhiriath lies between the Greyflood and Brandywine rivers, in the region of Eriador. Once populated, it has since fallen into ruin. Credits: _Haldir_ \n Number of Players: 7 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 21 \n Lairs: Troll and Warg"
+END
