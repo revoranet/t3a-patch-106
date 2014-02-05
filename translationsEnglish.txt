@@ -10,10 +10,6 @@ line.
 Thanks!
 --------------------------------------------------------------------------
 
-GUI:NATNegotiationFailed
-"Battle for Middle-earth is unable to connect to other player(s). If the problem persists, and you have a NAT or Firewall device or software: \n Click on the Refresh NAT button in the options menu. If you have a DLink device, click the Send Delay button in the options menu. If you are still unable to connect, consider opening a port in your firewall. Consult the manual and readme for details."
-END
-
 TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineEAAccountName
 "Register your account at Revora. Complete this field with your new account name"
 END
