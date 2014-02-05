@@ -1,0 +1,115 @@
+IMPORTANT INFORMATION
+Anything in this file besides what is written in "" must *not* be changed!
+Replace every text line by your translation, using the exact same format.
+Do not modify the line above and under the text encapsulated by "".
+
+It is important to keep the "\n" symbols approximately where they are.
+They add a new line which means the text after "\n" is written on a new
+line.
+
+Thanks!
+--------------------------------------------------------------------------
+
+GUI:NATNegotiationFailed
+"Battle for Middle-earth is unable to connect to other player(s). If the problem persists, and you have a NAT or Firewall device or software: \n Click on the Refresh NAT button in the options menu. If you have a DLink device, click the Send Delay button in the options menu. If you are still unable to connect, consider opening a port in your firewall. Consult the manual and readme for details."
+END
+
+TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineEAAccountName
+"Register your account at Revora. Complete this field with your new account name"
+END
+
+TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
+"Nicknames are case sensitive. Never begin your name with - or numbers. Allowed symbols are { } [ ] ` - | _ and ^"
+END
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/Register/ButtonClip
+"You must register at Revora to use T3A:Online"
+END
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/ServiceTerms/ButtonClip
+"Go to the T3A:Online website for news and instructions"
+END
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/OfficialSite/ButtonClip
+"Go to the T3A:Online support forums at Revora"
+END
+
+APT:OnlineEAAccountName
+"Revora Account Name"
+END
+
+APT:Password
+"T3A:Online Password"
+END
+
+APT:ServiceTerms
+"OFFICIAL WEBSITE"
+END
+
+APT:OfficialSite
+"SUPPORT FORUMS"
+END
+
+APT:ESRBNotice
+"T3A:Online, a community-made BFME server Check online.the3rdage.net for news & more"
+END
+
+Map:MAPMPAndrast/Desc
+"The southwest border of Gondor between the Bay of Belfalas and the Great Sea. Credits: Rimli \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Warg"
+END
+
+Map:MAPMPCarnen/Desc
+"The Carnen flows down from the Iron Hills. It is known as the Redwater, because the iron from the mountains gives it a red tinge. Credits: m@tt \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Goblin and Warg"
+End
+
+Map:MAPMPCarrock/Desc
+"A tall rock rises out of the Anduin, it was named The Carrock by Beorn, whom carved its stairs. Credits: BadMadMax \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 9 \n Lairs: Troll, Goblin and Warg"
+END
+
+Map:MAPMPDesolationOfSmaug/Desc
+"This barren wasteland was formed by Smaug the Dragon, who destroyed the landscape surrounding the Lonely Mountain. Credits: _Haldir_ \n Number of Players: 5 \n Starting Positions: Camps \n Expansion Points: 5 \n Settlements: 15 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPDimrillDale/Desc
+"Outside the east gate of Moria is this rocky yet forested valley that surrounds the Mirrormere. Credits: m@tt \n Number of Players: 6 \n Starting Positions: Castles \n Settlements: 18 \n Lairs: Troll, Goblin and Warg"
+END
+
+Map:MAPMPDruwaithIaurWE/Desc
+"These valleys, to the west of Gondor, are home to the mysterious Drúedain. Credits: Naugrim \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 3 \n Settlements: 8 \n Lairs: Troll and Warg"
+END
+
+Map:MAPMPEregion/Desc
+"Once home to the Elven-smiths who forged the Rings of Power, Eregion has since become overgrown and ruined. Credits: Lex Flores, MEVault \n Number of Players: 4 \n Starting Positions: Camps and Castles \n Settlements: 10 \n Lairs: Troll, Goblin and Warg"
+END
+
+Map:MAPMPFordsOfBruinen/Desc
+"The Bruinen flows down from the Misty Mountains and surrounds the Elven haven of Rivendell. Credits: m@tt \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 4 \n Settlements: 10 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPIronHills/Desc
+"The Iron Hills are the source of the Redwater which borders the eastern land of Rhun. Credits: _Haldir_ \n Number of Players: 3 \n Starting Positions: Camps \n Expansion Points: 1 \n Settlements: 9 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPLamedon/Desc
+"A semi-mountainous region just south of the White Mountains. Credits: TheFoeHammer \n Number of Players: 8 \n Starting Positions: Castles \n Expansion Points: 4 \n Settlements: 16 \n Lairs: Troll, Goblin and Warg"
+END
+
+Map:MAPMPLossarnach/Desc
+"One of Gondor's southern fiefdoms, Lossarnach lies within the vales of the White Mountains. Its lush grasslands are filled with flowers. Credits: _Haldir_ \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 16 \n Lairs: Goblin and Warg"
+END
+
+Map:MAPMPOldFordOfAnduin/Desc
+"The Anduin flows between the Misty Mountains and Mirkwood, and the ford is part of the Old Forest Road. Credits: m@tt \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 16 \n Lairs: Goblin and Warg"
+END
+
+Map:MAPMPSouthRhun/Desc
+"The Wainriders of Rhûn came to dwell in these dusty lands and formed allegiances with Khand and Harad. Credits: Dennis Agodzo, MEVault \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 10 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPTharbad/Desc
+"The Old South Road passes through the ancient city of Tharbad, the ruins of its once great bridge now a dangerous ford. Credits: _Haldir_ \n Number of Players: 3 \n Starting Positions: Castles \n Expansion Points: 1 \n Settlements: 15 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPMinhiriath/Desc
+"Minhiriath lies between the Greyflood and Brandywine rivers, in the region of Eriador. Once populated, it has since fallen into ruin. Credits: _Haldir_ \n Number of Players: 7 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 21 \n Lairs: Troll and Warg"
+END
