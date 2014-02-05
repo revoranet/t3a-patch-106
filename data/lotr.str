@@ -4671,7 +4671,7 @@ TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineEAAccountName
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
-"Nicknames are case sensitive"
+"Nicknames are case sensitive. Never begin your name with - or numbers. Allowed symbols are { } [ ] ` - | _ and ^"
 END
 
 TOOLTIP:OnlineShell/OnlineLogin/Login/Register/ButtonClip
