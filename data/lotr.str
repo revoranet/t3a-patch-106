@@ -32033,3 +32033,127 @@ END
 controlbar:tooltipguardunit
 "Guard another unit"
 END
+
+;-------------------- New maps 1.06
+;----------------------------------
+Map:MAPMPAndrast
+"Andrast"
+END
+
+Map:MAPMPAndrast/Desc
+"The southwest border of Gondor between the Bay of Belfalas and the Great Sea. Credits: Rimli \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Warg"
+END
+
+Map:MAPMPCarnen
+"Carnen"
+END
+
+Map:MAPMPCarnen/Desc
+"The Carnen flows down from the Iron Hills. It is known as the Redwater, because the iron from the mountains gives it a red tinge. Credits: m@tt \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Goblin and Warg"
+End
+
+Map:MAPMPCarrock
+"Carrock"
+END
+
+Map:MAPMPCarrock/Desc
+"A tall rock rises out of the Anduin, it was named The Carrock by Beorn, whom carved its stairs. Credits: BadMadMax \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 9 \n Lairs: Troll, Goblin and Warg"
+END
+
+Map:MAPMPDesolationOfSmaug
+"Desolation of Smaug"
+END
+
+Map:MAPMPDesolationOfSmaug/Desc
+"This barren wasteland was formed by Smaug the Dragon, who destroyed the landscape surrounding the Lonely Mountain. Credits: _Haldir_ \n Number of Players: 5 \n Starting Positions: Camps \n Expansion Points: 5 \n Settlements: 15 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPDimrillDale
+"Dimrill Dale"
+END
+
+Map:MAPMPDimrillDale/Desc
+"Outside the east gate of Moria is this rocky yet forested valley that surrounds the Mirrormere. Credits: m@tt \n Number of Players: 6 \n Starting Positions: Castles \n Settlements: 18 \n Lairs: Troll, Goblin and Warg"
+END
+
+Map:MAPMPDruwaithIaurWE
+"Drúwaith Iaur WE"
+END
+
+Map:MAPMPDruwaithIaurWE/Desc
+"These valleys, to the west of Gondor, are home to the mysterious Drúedain. Credits: Naugrim \n Number of Players: 2 \n Starting Positions: Castles \n Expansion Points: 3 \n Settlements: 8 \n Lairs: Troll and Warg"
+END
+
+Map:MAPMPEregion
+"Eregion"
+END
+
+Map:MAPMPEregion/Desc
+"Once home to the Elven-smiths who forged the Rings of Power, Eregion has since become overgrown and ruined. Credits: Lex Flores, MEVault \n Number of Players: 4 \n Starting Positions: Camps and Castles \n Settlements: 10 \n Lairs: Troll, Goblin and Warg"
+END
+
+Map:MAPMPFordsOfBruinen
+"Fords of Bruinen"
+END
+
+Map:MAPMPFordsOfBruinen/Desc
+"The Bruinen flows down from the Misty Mountains and surrounds the Elven haven of Rivendell. Credits: m@tt \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 4 \n Settlements: 10 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPIronHills
+"Iron Hills"
+END
+
+Map:MAPMPIronHills/Desc
+"The Iron Hills are the source of the Redwater which borders the eastern land of Rhun. Credits: _Haldir_ \n Number of Players: 3 \n Starting Positions: Camps \n Expansion Points: 1 \n Settlements: 9 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPLamedon
+"Lamedon"
+END
+
+Map:MAPMPLamedon/Desc
+"A semi-mountainous region just south of the White Mountains. Credits: TheFoeHammer \n Number of Players: 8 \n Starting Positions: Castles \n Expansion Points: 4 \n Settlements: 16 \n Lairs: Troll, Goblin and Warg"
+END
+
+Map:MAPMPLossarnach
+"Lossarnach"
+END
+
+Map:MAPMPLossarnach/Desc
+"One of Gondor's southern fiefdoms, Lossarnach lies within the vales of the White Mountains. Its lush grasslands are filled with flowers. Credits: _Haldir_ \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 16 \n Lairs: Goblin and Warg"
+END
+
+Map:MAPMPOldFordOfAnduin
+"Old Ford of Anduin"
+END
+
+Map:MAPMPOldFordOfAnduin/Desc
+"The Anduin flows between the Misty Mountains and Mirkwood, and the ford is part of the Old Forest Road. Credits: m@tt \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 16 \n Lairs: Goblin and Warg"
+END
+
+Map:MAPMPSouthRhun
+"South Rhun"
+END
+
+Map:MAPMPSouthRhun/Desc
+"The Wainriders of Rhûn came to dwell in these dusty lands and formed allegiances with Khand and Harad. Credits: Dennis Agodzo, MEVault \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 10 \n Lairs: Troll and Goblin"
+END
+
+Map:MAPMPTharbad
+"Tharbad"
+END
+
+Map:MAPMPTharbad/Desc
+"The Old South Road passes through the ancient city of Tharbad, the ruins of its once great bridge now a dangerous ford. Credits: _Haldir_ \n Number of Players: 3 \n Starting Positions: Castles \n Expansion Points: 1 \n Settlements: 15 \n Lairs: Troll and Goblin"
+END
+
+;------------------ Minhiriath still has the bridge bug
+;Map:MAPMPMinhiriath
+;"Minhiriath"
+;END
+
+;Map:MAPMPMinhiriath/Desc
+;"Minhiriath lies between the Greyflood and Brandywine rivers, in the region of Eriador. Once populated, it has since fallen into ruin. Credits: _Haldir_ \n Number of Players: 7 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 21 \n Lairs: Troll and Warg"
+;END
+;-----------------
