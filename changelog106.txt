@@ -59,3 +59,30 @@ Minhiriath - Original author: Haldir
 
 8-PLAYER MAPS
 Lamedon - Original author: TheFoeHammer
+
+=====================
+CREDITS & THANKS
+=====================
+
+BadMadMax - Maps
+Dennis Agodzo - Maps
+Haldir - Maps
+Lex Flores - Maps
+Naugrim - Maps
+Rimli - Maps
+m@tt - Maps
+TheFoeHammer - Maps
+Echo - Map Editing, Coding
+ICT - Map Editing, Coding
+Phil - Coding
+Rider of Rohan - Coding, HD Patch artist
+Mathijs - HD Patch artist
+Kwen - HD Patch contribution
+Nertea - HD Patch contribution
+ 
+Testers:
+ 
+Special Thanks:
+Rider of Rohan for donating his fantastic HD Patch work to T3A:Patch 1.06.
+Celeglin for his Hobbitsy faces.
+The T3A community for helping out with various bits of troubleshooting.
