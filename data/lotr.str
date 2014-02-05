@@ -3419,7 +3419,7 @@ GUI:GSFailedToHost
 END
 
 GUI:NATNegotiationFailed
-"Battle for Middle-earth is unable to connect to other player(s). If the problem persists, and you have a NAT or Firewall device or softwa"
+"Battle for Middle-earth is unable to connect to other player(s). If the problem persists, and you have a NAT or Firewall device or software: \n Click on the Refresh NAT button in the options menu. If you have a DLink device, click the Send Delay button in the options menu. If you are still unable to connect, consider opening a port in your firewall. Consult the manual and readme for details."
 END
 
 GUI:GPErrorTitle
@@ -16235,7 +16235,7 @@ Map:MAPMPDagorlad/Desc
 END
 
 Map:MAPMPDeadMarshes/Desc
-"A haunted swampland,"
+"A haunted swampland, lying just outside Mordor. Gollum led Frodo and Sam through these lands on their way to Mount Doom. \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 4 \n Settlements: 14 \n Lairs: Goblin \n Build Restrictions: No Siege Ladders or Towers"
 END
 
 Map:MAPMPDruadanForest/Desc
@@ -16303,7 +16303,7 @@ Map:MAPMPHarondor/Desc
 END
 
 Map:MAPMPLebennin/Desc
-"This lush, green land in southern Gondor lies where the Anduin River completes its journey into the Bay of Belfalas.\nStarting Positions: Camps\nExpansion Points: 2\nSettlements: 12\nLairs: Troll, Goblin and Warg\nBuild Restrictions: No Siege Ladders or Towers"
+"This lush, green land in southern Gondor lies where the Anduin River completes its journey into the Bay of Belfalas. \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 12 \n Lairs: Troll, Goblin and Warg \n Build Restrictions: No Siege Ladders or Towers"
 END
 
 Map:MAPMPLebennin2/Desc
@@ -16319,7 +16319,7 @@ Map:MAPMPMirkwood2/Desc
 END
 
 Map:MAPMPMtDoom/Desc
-"In this volcano, the One Ring was forged by Sauro"
+"In this volcano, the One Ring was forged by Sauron. Here the One Ring was eventually destroyed by the Hobbit Frodo Baggins. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 8 \n Lairs: Troll and Goblin \n Build Restrictions: No Siege Ladders, Siege Towers or Mumakil"
 END
 
 Map:MAPMPNearHarad/Desc
@@ -16351,7 +16351,7 @@ Map:MAPMPBrownLands2/Desc
 END
 
 Map:MAPMPOsgiliath/Desc
-"This Gondor city is the last line of defense between Mor"
+"This Gondor city is the last line of defense between Mordor and Minas Tirith. The Anduin River runs through the center of the city. \n Number of Players: 4 \n Starting Positions: Camps \n Expansion Points: 4 \n Settlements: 12 \n Lairs: Troll and Goblin \n Build Restrictions: No Siege Ladders, Siege Towers or Mumakil"
 END
 
 Map:MAPMPPelargir/Desc
