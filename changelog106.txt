@@ -13,7 +13,6 @@ GENERAL IMPROVEMENTS
 - Many House Color textures have been changed to improve color fidelity.
 - Audio notification enabled when an ally places a beacon.
 - Select-All-Heroes hotkey reinstated.
-- Elven Wood and Tainted Land powers house colour FX is brightened to improve visibility. 
 - House Colors made more distinguishable. 
 - Mordor Haradrim Lancer Horde now randomizes between two textures. 
 
