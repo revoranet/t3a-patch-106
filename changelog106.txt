@@ -1,14 +1,14 @@
-=====================
+---------------------
 NEW FEATURES
-=====================
+---------------------
 
 - 15 new maps added. Maps have been edited and tested for balance.
 - All unit and hero textures have been upgraded from their original 64x64 resolution to 256x256 resolution.
 - Previously unused hero and unit sounds added (unit and hero salute sounds, several special power voice sounds).
 
-=====================
+---------------------
 GENERAL IMPROVEMENTS
-=====================
+---------------------
 
 - Many House Color textures have been changed to improve color fidelity.
 - Audio notification enabled when an ally places a beacon.
@@ -16,19 +16,20 @@ GENERAL IMPROVEMENTS
 - House Colors made more distinguishable. 
 - Mordor Haradrim Lancer Horde now randomizes between two textures. 
 
-=====================
+---------------------
 BUG FIXES
-=====================
+---------------------
 
 - Movement bug fixed.
 - Removed the "+50% Armor" from Eye of Sauron's tooltip.
 - Rohirrim Armor fixed, now take less HERO damage with both Heavy Armor and Horse Shields (50% in both cases). 
 - Disconnect screen text fixed. 
-- Missing/incomplete text in lotr.str fixed. 
+- Missing/incomplete text in lotr.str fixed.
+- Terrain textures on high graphic settings fixed (bug in 1.05)
 
-=====================
+---------------------
 NEW MAP LIST
-=====================
+---------------------
 
 2-PLAYER MAPS
 Andrast - Original author: Rimli
@@ -60,9 +61,9 @@ Dunland - Original author: Haldir
 8-PLAYER MAPS
 Lamedon - Original author: TheFoeHammer
 
-=====================
+---------------------
 CREDITS & THANKS
-=====================
+---------------------
 
 BadMadMax - Maps
 Dennis Agodzo - Maps
