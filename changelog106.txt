@@ -13,7 +13,7 @@ GENERAL IMPROVEMENTS
 - Many House Color textures have been changed to improve color fidelity.
 - Audio notification enabled when an ally places a beacon.
 - Select-All-Heroes hotkey reinstated.
-- House Colors made more distinguishable. 
+- House Colors made more distinguishable (new color palette). 
 - Mordor Haradrim Lancer Horde now randomizes between two textures. 
 
 ---------------------
@@ -26,6 +26,8 @@ BUG FIXES
 - Disconnect screen text fixed. 
 - Missing/incomplete text in lotr.str fixed.
 - Terrain textures on high graphic settings fixed (bug in 1.05)
+- Faramir LD RefreshDelay = 2000
+- EyeOfSauron RefreshDelay = 2000 <- supposed to fix Eye of Sauron bug (units not leveling up) needs testing!
 
 ---------------------
 NEW MAP LIST
