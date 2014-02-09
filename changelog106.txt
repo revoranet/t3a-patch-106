@@ -54,7 +54,8 @@ Lossarnach - Original author: Haldir
 South Rhun - Original author: Dennis Agodzo
 
 7-PLAYER MAPS
-Minhiriath - Original author: Haldir
+// currently bugged. Minhiriath - Original author: Haldir
+Dunland - Original author: Haldir
 
 8-PLAYER MAPS
 Lamedon - Original author: TheFoeHammer
