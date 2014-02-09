@@ -32,34 +32,34 @@ NEW MAP LIST
 ---------------------
 
 2-PLAYER MAPS
-Andrast - Original author: Rimli
-Carnen - Original author: m@tt
-Carrock - Original author: BadMadMax
-Druwaith Iaur Winter - Original author: Naugrim
+- Andrast - Original author: Rimli
+- Carnen - Original author: m@tt
+- Carrock - Original author: BadMadMax
+- Druwaith Iaur Winter - Original author: Naugrim
 
 3-PLAYER MAPS
-Iron Hills - Original author: Haldir
-Tharbad - Original author: Haldir
+- Iron Hills - Original author: Haldir
+- Tharbad - Original author: Haldir
 
 4-PLAYER MAPS
-Eregion - Original author: Lex Flores
-Fords of Bruinen - Original author: m@tt
-Old Ford of Anduin - Original author: m@tt
+- Eregion - Original author: Lex Flores
+- Fords of Bruinen - Original author: m@tt
+- Old Ford of Anduin - Original author: m@tt
 
 5-PLAYER MAPS
-Desolation of Smaug - Original author: Haldir
+- Desolation of Smaug - Original author: Haldir
 
 6-PLAYER MAPS
-Dimrill Dale - Original author: m@tt 
-Lossarnach - Original author: Haldir 
-South Rhun - Original author: Dennis Agodzo
+- Dimrill Dale - Original author: m@tt 
+- Lossarnach - Original author: Haldir 
+- South Rhun - Original author: Dennis Agodzo
 
 7-PLAYER MAPS
 // currently bugged. Minhiriath - Original author: Haldir
-Dunland - Original author: Haldir
+- Dunland - Original author: Haldir
 
 8-PLAYER MAPS
-Lamedon - Original author: TheFoeHammer
+- Lamedon - Original author: TheFoeHammer
 
 ---------------------
 CREDITS & THANKS
