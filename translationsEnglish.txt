@@ -109,3 +109,7 @@ END
 Map:MAPMPMinhiriath/Desc
 "Minhiriath lies between the Greyflood and Brandywine rivers, in the region of Eriador. Once populated, it has since fallen into ruin. Credits: _Haldir_ \n Number of Players: 7 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 21 \n Lairs: Troll and Warg"
 END
+
+Map:MAPMPDunland/Desc
+"West of the Misty Mountains lies Dunland, a hilly region whose warlike people are under the dark influence of Isengard. Credits: _Haldir_ \n Number of Players: 7 \n Starting Positions: Camps \n Expansion Points: 3 \n Settlements: 7 \n Lairs: Troll and Warg"
+END
