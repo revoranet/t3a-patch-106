@@ -26,8 +26,8 @@ BUG FIXES
 - Disconnect screen text fixed. 
 - Missing/incomplete text in lotr.str fixed.
 - Terrain textures on high graphic settings fixed (bug in 1.05)
-- Faramir LD RefreshDelay = 2000
-- EyeOfSauron RefreshDelay = 2000 <- supposed to fix Eye of Sauron bug (units not leveling up) needs testing!
+- Faramir passive LD adjusted to behave exactly as intended (time delay until he gives LD equals now all other heroes)
+- Eye of Sauron bug fixed (units not leveling up properly)
 
 ---------------------
 NEW MAP LIST
