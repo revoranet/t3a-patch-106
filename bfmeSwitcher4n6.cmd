@@ -1,6 +1,7 @@
 @echo off
 :: setlocal enableDelayedExpansion
 :: Simple batch bfme 1 patchswitcher between 1.04 and 1.06 testversion
+:: by ICT
 :: define variables
 :: muted files end *.bak
 set bak=.bak
