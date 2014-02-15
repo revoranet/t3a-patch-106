@@ -28663,11 +28663,11 @@ SUBTITLE:MTutori_GonO133c
 END
 
 DIALOGEVENT:MGWorld_Openingsubtitle
-"*In the land of Mordor, in the fires of Mt. Doom, the Dark Lord Sauron forged a powerful ring. And into this ring, he poured "
+"*In the land of Mordor, in the fires of Mt. Doom, the Dark Lord Sauron forged a powerful ring. And into this ring, he poured his cruelty, his malice and his will to dominate all life. One Ring to rule them all. He used this ring to conquer Middle-earth and enslave its people. But through the encompassing darkness, there was still hope that heroes would arise to challenge Sauron."
 END
 
 DIALOGEVENT:MGWorld_LastA1subtitle
-""
+"*Ages ago, the free lands of Middle-earth fell to the Power of the One Ring. But there were some who resisted. A last alliance of Elves and Men marched against the armies of Mordor, and on the slopes of Mt. Doom they fought for the freedom of Middle-earth."
 END
 
 DIALOGEVENT:MGWorld_LastA2subtitle
