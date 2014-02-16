@@ -74,28 +74,12 @@ Color:MordorRed
 "Mordor Red"
 END
 
-Color:Purple
-"Purple"
-END
-
 Color:Blue
 "Blue"
 END
 
 Color:GondorBlue
 "Gondor Blue"
-END
-
-Color:SeaBlue
-"Sea Blue"
-END
-
-Color:Lilaq
-"Lilaq"
-END
-
-Color:DarkBlue
-"Dark Blue"
 END
 
 Color:Green
@@ -126,40 +110,8 @@ Color:Pink
 "Pink"
 END
 
-Color:LimeGreen
-"Lime Green"
-END
-
-Color:SeaGreen
-"Sea Green"
-END
-
-Color:RoyalBlue
-"Royal Blue"
-END
-
-Color:Violet
-"Violet"
-END
-
-Color:Orchid
-"Orchid"
-END
-
 Color:White
 "White"
-END
-
-Color:Maroon
-"Maroon"
-END
-
-Color:Yellow
-"Yellow"
-END
-
-Color:Grey
-"Grey"
 END
 
 Team:0
