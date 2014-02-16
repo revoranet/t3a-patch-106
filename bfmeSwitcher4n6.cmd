@@ -6,7 +6,7 @@
 :: muted files end *.bak
 set bak=.bak
 
-set big106=_patch106testbuildv2.big
+set big106=_patch106testbuildv3.big
 set big105=_patch105.big
 set big104=_patch104.big
 
@@ -48,6 +48,9 @@ if exist lotrbfme.exe if exist game.dat (
 )
 :help
 echo ###################################################################
+echo # 
+echo # BFME 1 Patchswitcher Script 1.04 <-> 1.06
+echo #
 echo # To make this work:
 echo # 0. The script needs to be in the same directory as the patches,
 echo #    but you can create a shortcut.
