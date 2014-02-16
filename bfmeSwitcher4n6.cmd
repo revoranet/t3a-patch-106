@@ -49,7 +49,7 @@ if exist lotrbfme.exe if exist game.dat (
 :help
 echo ###################################################################
 echo # 
-echo # BFME 1 Patchswitcher Script 1.04 <-> 1.06
+echo # BFME 1 Patchswitcher Script 1.04 - 1.06
 echo #
 echo # To make this work:
 echo # 0. The script needs to be in the same directory as the patches,
