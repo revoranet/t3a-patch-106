@@ -6,7 +6,7 @@
 :: muted files end *.bak
 set bak=.bak
 
-set big106=_patch106testbuildv3.big
+set big106=_patch106testbuildv4.big
 set big105=_patch105.big
 set big104=_patch104.big
 
