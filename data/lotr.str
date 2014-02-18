@@ -32039,7 +32039,7 @@ Map:MAPMPEregion
 END
 
 Map:MAPMPEregion/Desc
-"Once home to the Elven-smiths who forged the Rings of Power, Eregion has since become overgrown and ruined. Credits: Lex Flores \n Number of Players: 4 \n Starting Positions: Camps and Castles \n Settlements: 10 \n Lairs: Troll, Goblin and Warg"
+"Once home to the Elven-smiths who forged the Rings of Power, Eregion has since become overgrown and ruined. Credits: Lex Flores \n Number of Players: 4 \n Starting Positions: Camps and Castles \n Settlements: 10 \n Lairs: Goblin and Warg"
 END
 
 Map:MAPMPFordsOfBruinen
@@ -32087,7 +32087,7 @@ Map:MAPMPSouthRhun
 END
 
 Map:MAPMPSouthRhun/Desc
-"The Wainriders of Rhûn came to dwell in these dusty lands and formed allegiances with Khand and Harad. Credits: Dennis Agodzo, MEVault \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 10 \n Lairs: Troll and Goblin"
+"The Wainriders of Rhûn came to dwell in these dusty lands and formed allegiances with Khand and Harad. Credits: Dennis Agodzo \n Number of Players: 6 \n Starting Positions: Camps \n Expansion Points: 2 \n Settlements: 10 \n Lairs: Troll and Goblin"
 END
 
 Map:MAPMPTharbad
