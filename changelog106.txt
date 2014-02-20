@@ -1,3 +1,9 @@
+===========================================
+===========================================
+~~~ T3A: PATCH 1.06 CHANGELOG & CREDITS ~~~
+===========================================
+===========================================
+
 ---------------------
 NEW FEATURES
 ---------------------
@@ -10,24 +16,24 @@ NEW FEATURES
 GENERAL IMPROVEMENTS
 ---------------------
 
-- Many House Color textures have been changed to improve color fidelity.
-- Audio notification enabled when an ally places a beacon.
+- Many House Color textures have been changed to improve design, color fidelity and visibility.
 - Select-All-Heroes hotkey reinstated.
-- House Colors made more distinguishable (new color palette). 
+- House Colors reverted to 1.03 color palette.
+- White added as House Color option.
 - Mordor Haradrim Lancer Horde now randomizes between two textures. 
 
 ---------------------
 BUG FIXES
 ---------------------
 
-- Movement bug fixed.
+- MOVEMENT BUG FIXED.
 - Removed the "+50% Armor" from Eye of Sauron's tooltip.
 - Rohirrim Armor fixed, now take less HERO damage with both Heavy Armor and Horse Shields (50% in both cases). 
 - Disconnect screen text fixed. 
 - Missing/incomplete text in lotr.str fixed.
-- Terrain textures on high graphic settings fixed (bug in 1.05)
-- Faramir passive LD adjusted to behave exactly as intended (time delay until he gives LD equals now all other heroes)
-- Eye of Sauron bug fixed (units not leveling up properly)
+- Terrain textures on high graphic settings fixed (bug in 1.05).
+- Faramir passive LD adjusted to behave exactly as intended (time delay until he gives LD equals now all other heroes).
+- Eye of Sauron bug fixed (units not leveling up properly).
 
 ---------------------
 NEW MAP LIST
@@ -57,7 +63,6 @@ NEW MAP LIST
 - South Rhun - Original author: Dennis Agodzo
 
 7-PLAYER MAPS
-// currently bugged. Minhiriath - Original author: Haldir
 - Dunland - Original author: Haldir
 
 8-PLAYER MAPS
@@ -67,6 +72,11 @@ NEW MAP LIST
 CREDITS & THANKS
 ---------------------
 
+ICT - Map Editing, Coding
+Echo - Map Editing, Coding
+Phil - Coding
+Rider of Rohan - Coding, HD Patch Artist
+Mathijs - HD Patch Artist, Map Editing
 BadMadMax - Maps
 Dennis Agodzo - Maps
 Haldir - Maps
@@ -75,17 +85,9 @@ Naugrim - Maps
 Rimli - Maps
 m@tt - Maps
 TheFoeHammer - Maps
-Echo - Map Editing, Coding
-ICT - Map Editing, Coding
-Phil - Coding
-Rider of Rohan - Coding, HD Patch artist
-Mathijs - HD Patch artist
-Kwen - HD Patch contribution
-Nertea - HD Patch contribution
- 
-Testers:
  
 Special Thanks:
 Rider of Rohan for donating his fantastic HD Patch work to T3A:Patch 1.06.
-Celeglin for his Hobbitsy faces.
+Celeglin for his Hobbitsy faces, Nertea for his Berserker texture, and Kwen for Éomer's pretty chest armor.
 The T3A community for helping out with various bits of troubleshooting.
+Everyone who participated in testing.
