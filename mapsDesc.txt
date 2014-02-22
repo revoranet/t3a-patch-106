@@ -10,10 +10,7 @@ Probably the most-played map in the 1vs1 Winter Tournament, we now provide the n
 Another fairly balanced map that was introduced with the Winter Tournament, Carnen returns without snow. Credits to m@tt for making this awesome map!
 
 - Carrock (2p)
-A great map provided to us by BadMadMax. This map was picked quite often during the Winter Tournament and we're proud to announce that it made it in the patch with a few improvements:
-- Removed snow
-- Removed some props from fords to avoid getting stuck frequently
-- Added another ford to the river at the very top right edge and updated the mini map
+A great map provided to us by BadMadMax. This map was picked quite often during the Winter Tournament and we're proud to announce that it made it in the patch with a few improvements.
 
 - Drúwaith Iaur Winter Edition (2p)
 Opposed to other maps from the Winter Tournament, this map keeps its snowy appearance. Credits go to Naugrim.
@@ -45,8 +42,8 @@ This is another special 3vs3 map which features a big, awesome city in its cente
 - South Rhun (6p)
 An interesting 3vs3 map which plays top right vs. bottom left. Outposts in the top left and bottom right are the only expansion points. Thanks to Dennis Agodzo.
 
-- Minhiriath (7p)
-The very first 7-player map in the entire map pool. The starting positions circle around a great valley in the middle, with a bridge over it. Thanks to _Haldir_ for providing us with this map.
+- Dunland (7p)
+The very first 7-player map in the entire map pool. Action guaranteed! Thanks to _Haldir_ for providing us with this map.
 
 - Lamedon (8p)
 Additional to Old Brown Lands, this map is another 8-player map with castles. Played left vs. right, this map is divided vertically by a river in the middle. Credits go to TheFoeHammer.
