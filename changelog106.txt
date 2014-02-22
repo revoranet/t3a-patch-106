@@ -29,11 +29,10 @@ BUG FIXES
 - MOVEMENT BUG FIXED.
 - Removed the "+50% Armor" from Eye of Sauron's tooltip.
 - Rohirrim Armor fixed, now take less HERO damage with both Heavy Armor and Horse Shields (50% in both cases). 
-- Disconnect screen text fixed. 
-- Missing/incomplete text in lotr.str fixed.
+- Many missing & incomplete ingame texts fixed.
 - Terrain textures on high graphic settings fixed (bug in 1.05).
 - Faramir passive LD adjusted to behave exactly as intended (time delay until he gives LD equals now all other heroes).
-- Eye of Sauron bug fixed (units not leveling up properly).
+- Eye of Sauron bug fixed (units now leveling up properly).
 
 ---------------------
 NEW MAP LIST
@@ -77,6 +76,7 @@ Echo - Map Editing, Coding
 Phil - Coding
 Rider of Rohan - Coding, HD Patch Artist
 Mathijs - HD Patch Artist, Map Editing
+Fudge - Map Editing
 BadMadMax - Maps
 Dennis Agodzo - Maps
 Haldir - Maps
