@@ -1,12 +1,12 @@
 @echo off
 :: setlocal enableDelayedExpansion
-:: Simple batch bfme 1 patchswitcher between 1.04 and 1.06 testversion
+:: Simple batch bfme 1 patchswitcher between 1.04 and 1.06
 :: by ICT
 :: define variables
 :: muted files end *.bak
 set bak=.bak
 
-set big106=_patch106testbuildv4.big
+set big106=_patch106.big
 set big105=_patch105.big
 set big104=_patch104.big
 
@@ -19,7 +19,7 @@ set gd06=.05
 :: switch from testpatch 106 to 104 or the other way round
 if exist lotrbfme.exe if exist game.dat (
 	if exist %big106% if exist %big105% if exist %big104% if exist %gd%%gd04% (
-		echo Patch 1.06 Testversion is active, switching to Patch 1.04
+		echo Patch 1.06 is active, switching to Patch 1.04
 		rename %big106% %big106%%bak%
 		rename %big105% %big105%%bak%
 		rename %gd% %gd%%gd06%
@@ -31,7 +31,7 @@ if exist lotrbfme.exe if exist game.dat (
 		goto help
 	)
 	if exist %big104% if exist %big105%%bak% if exist %big106%%bak% if exist %gd%%gd06% (
-		echo Patch 1.04 is active, switching to 1.06 Testversion
+		echo Patch 1.04 is active, switching to Patch 1.06
 		rename %big105%%bak% %big105%
 		rename %big106%%bak% %big106%
 		rename %gd% %gd%%gd04%
