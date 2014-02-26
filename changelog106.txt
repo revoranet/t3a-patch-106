@@ -32,9 +32,9 @@ BUG FIXES
 - Many missing & incomplete ingame texts fixed.
 - Terrain textures on high graphic settings fixed (bug in 1.05).
 - Faramir passive LD adjusted to behave exactly as intended (time delay until he gives LD equals now all other heroes).
-- Eye of Sauron bug fixed (units now leveling up properly if focussed). *
+- Eye of Sauron experience leadership bug fixed. Units rank up properly if the eye is on top of them. *
 
-* This might still happen on very few occasions due to latency effects.
+* The bug might happen on rare occasions due to latency effects.
 ---------------------
 NEW MAP LIST
 ---------------------
