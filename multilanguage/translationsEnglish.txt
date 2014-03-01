@@ -9,7 +9,11 @@ line. Also, don't use any other special characters as the ones used.
 The question mark "?" may NOT be changed. Eg "(?C) Outpost" may be changed
 to "(?C) TranslationOfOutpost". Do not translate any URL adresses, they are
 here for completeness.
+Mapnames and Credit tags should be kept as they are!
 
+Save and send the translated file as translationsYourLanguage.txt.
+
+If you have any more questions please ask before acting.
 Thanks!
 --------------------------------------------------------------------------
 
