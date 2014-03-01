@@ -14,6 +14,16 @@ Mapnames and Credit tags should be kept as they are!
 Save and send the translated file as translationsYourLanguage.txt.
 
 If you have any more questions please ask before acting.
+
+Other strings you don't have to translate:
+APT:DisconnectRules
+SUBTITLE:MTutori_GonO060
+SUBTITLE:MTutori_GonO079
+SUBTITLE:MTutori_GonO120
+SUBTITLE:MTutori_GonO124
+SUBTITLE:opening_14
+
+
 Thanks!
 --------------------------------------------------------------------------
 
@@ -195,10 +205,6 @@ Map:MAPMPMinhiriath
 
 Map:MAPMPMinhiriath/Desc
 "Minhiriath lies between the Greyflood and Brandywine rivers, in the region of Eriador. Once populated, it has since fallen into ruin. Credits: _Haldir_ \n Number of Players: 7 \n Starting Positions: Castles \n Expansion Points: 2 \n Settlements: 21 \n Lairs: Troll and Warg"
-
-
-Map:MAPMPMirkwood2/Desc
-"A great forest to the east of the Misty Mountains. \n Number of Players: 4 \n Starting Positions: Castles \n Expansion Points: 0 \n Settlements: 12 \n Lairs: Goblin and Warg"
 
 
 Map:MAPMPOldFordOfAnduin
