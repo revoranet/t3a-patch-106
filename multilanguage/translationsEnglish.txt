@@ -155,6 +155,10 @@ URL:LotrTOS
 "http://online.the3rdage.net/"
 End
 
+Version:Format2
+"Version T3A 1.06"
+END
+
 Map:MAPMPAndrast
 "Andrast"
 End
