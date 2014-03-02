@@ -1,0 +1,235 @@
+APT:ESRBNotice
+"T3A:Online ist ein von der Spielergemeinde erstellter ''Schlacht um Mittelerde'' Server. Auf online.the3rdage.net gibt es Neuigkeiten und mehr"
+End
+
+APT:OfficialSite
+"SUPPORT FORUMS"
+End
+
+APT:OnlineEAAccountName
+"Revora Account Name"
+End
+
+APT:Password
+"T3A:Online Passwort"
+End
+
+APT:ServiceTerms
+"OFFIZIELLE WEBSITE"
+End
+
+Color:Pink
+"Pink"
+End
+
+Color:White
+"Weiß"
+End
+
+CONTROLBAR:ConstructCamp
+"(&C)Lager"
+End
+
+CONTROLBAR:ConstructCastle
+"(&C)Festung"
+End
+
+CONTROLBAR:ConstructOutpost
+"(&C)Vorposten"
+End
+
+CONTROLBAR:EyeofSauron
+"(&y)Saurons Auge"
+End
+
+CONTROLBAR:GandalfTheWhiteRecruit
+"Held.\n Rekrutiere einen Zauberer, der mit magischen Kräften kämpft. \n 10 Kommandopunkte"
+End
+
+CONTROLBAR:GondorAragornRecruit
+"Held. \n Rekrutiere den Thronerben von Gondor. \n 5 Kommandopunkte"
+End
+
+CONTROLBAR:GuardUnit
+"(&U)Bewache Einheit"
+End
+
+CONTROLBAR:RohanGimliRecruit
+"Held. \n Rekrutiere den Zwerg vom einsamen Berg. \n 5 Kommandopunkte"
+End
+
+CONTROLBAR:RohanLegolasRecruit
+"Held. \n Rekrutiere den Prinz der Elben aus dem Düsterwald. \n 5 Kommandopunkte"
+End
+
+CONTROLBAR:ToolTipEyeofSauron
+"Enttarnt versteckte Einheiten. \n +50% Schaden +100% Erfahrung \n Links klicken dann rechts auf das Ziel klicken"
+End
+
+CONTROLBAR:ToolTipGuardUnit
+"Bewache eine andere Einheit"
+End
+
+SUBTITLE:MTutori_GonO079
+"*Some Heroes have passive abilities that do not need to be clicked, such as Aragorn’s leadership ability."
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/OfficialSite/ButtonClip
+"Besuche das T3A:Online Forum auf Revora"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/Register/ButtonClip
+"Um T3A:Online zu nutzen, musst du dich auf Revora registrieren"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/ServiceTerms/ButtonClip
+"Besuche die T3A:Online Website für Neuigkeiten und Tips"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineEAAccountName
+"Registriere deinen Account auf Revora. Vervollständige dieses Feld mit deinem Accountnamen"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
+"Achte auf die Groß- bzw. Kleinschreibung bei Benutzernamen. Beginne deinen Namen nicht mit - oder Zahlen. Erlaubte Zeichen sind { } [ ] ` - | _ und ^"
+End
+
+URL:LotrHome
+"http://forums.revora.net/forum/2671-t3aonline-support-and-talk/"
+End
+
+URL:LotrLadder
+"http://online.the3rdage.net/"
+End
+
+URL:LotrTOS
+"http://online.the3rdage.net/"
+End
+
+Map:MAPMPAndrast
+"Andrast"
+End
+
+Map:MAPMPAndrast/Desc
+"Die südwestliche Grenze von Gondor zwischen der Bucht von Belfalas und dem großen Meer. Credits: Rimli \n Anzahl von Spielern: 2 \n Startpositionen: Festungen \n Erweiterungspunkte:2 \n Siedlungen: 8 \n Horte: Warge"
+End
+
+Map:MAPMPCarnen
+"Carnen"
+End
+
+Map:MAPMPCarnen/Desc
+"Der Carnen fliesst die Eisernen Berge herunter. Er ist bekannt als Rotwasser, da ihm das Eisen aus dem Gebirgsgestein einen Rotstich verleiht. Credits: m@tt \n Anzahl von Spielern: 2 \n Startpositionen: Festungen \n Erweiterungspunkte: 2 \n Siedlungen: 8 \n Horte: Orks und Warge"
+End
+
+Map:MAPMPCarrock
+"Carrock"
+End
+
+Map:MAPMPCarrock/Desc
+"Ein großer Stein ragt aus dem Anduin. Beorn meisselte Treppen in ihn hinein und nannte ihn Carrock. Credits: BadMadMax \n Anzahl von Spielern: 2 \n Startpositionen: Festungen \n Erweiterungspunkte: 2 \n Siedlungen: 9 \n Horte: Trolle, Orks und Warge"
+End
+
+Map:MAPMPDesolationOfSmaug
+"Smaugs Einöde"
+End
+
+Map:MAPMPDesolationOfSmaug/Desc
+"Dieses Ödland wurde durch den Drachen Smaug geformt, der die Landschaft um den einsamen Berg zerstörte. Credits: _Haldir_ \n Anzahl von Spielern: 5 \n Startpositionen: Lager \n Erweiterungspunkte: 5 \n Siedlungen: 15 \n Horte: Orks und Trolle"
+End
+
+Map:MAPMPDimrillDale
+"Das Tal von Dimrill"
+End
+
+Map:MAPMPDimrillDale/Desc
+"Außerhalb des großen Osttores von Moria liegt der Spiegelsee, umgeben von einem steinigen und bewaldetem Tal. Credits: m@tt \n Anzahl von Spielern: 6 \n Startpositionen: Festungen \n Siedlungen: 18 \n Horte: Trolle, Orks und Warge"
+End
+
+Map:MAPMPDruwaithIaurWE
+"Drúwaith Iaur WE"
+End
+
+Map:MAPMPDruwaithIaurWE/Desc
+"Diese Täler westlich von Gondor gehören den geheimnisollen Druédain. Credits: Naugrim \n Anzahl von Spielern: 2 \n Startpositionen: Festungen \n Erweiterungspunkte: 3 \n Siedlungen: 8 \n Horte: Trolle und Warge"
+End
+
+Map:MAPMPDunland
+"Dunland"
+End
+
+Map:MAPMPDunland/Desc
+"Westlich des Nebelgebirges liegt das hügelige Dunland, dessen kriegerisches Volk unter dem dunklen Einfluss von Isengart steht. Credits: _Haldir_ \n Anzahl von Spielern: 7 \n Startpositionen: Lager \n Erweiterungspunkte: 3 \n Siedlungen: 7 \n Horte: Trolle und Warge"
+End
+
+Map:MAPMPEregion
+"Eregion"
+End
+
+Map:MAPMPEregion/Desc
+"Eregon war einst das Land der Elbenschmiede, welche die machtvollen Ringe fertigten. Mittlerweile ist es verlassen und zerstört. Credits: Lex Flores \n Anzahl von Spielern: 4 \n Startpositionen: Festungen und Lager \n Siedlungen: 8 \n Horte: Orks und Warge "
+End
+
+Map:MAPMPFordsOfBruinen
+"Furten des Bruinen"
+End
+
+Map:MAPMPFordsOfBruinen/Desc
+"Der Bruinen entspringt im Nebelgebirge und umgibt die Elbensiedlung von Bruchtal. Credits: m@tt \n Anzahl von Spielern: 4 \n Startpositionen: Festungen \n Erweiterungspunkte: 4 \n Siedlungen: 10 \n Horte: Trolle und Orks"
+End
+
+Map:MAPMPIronHills
+"Eisenberge"
+End
+
+Map:MAPMPIronHills/Desc
+"Die Eisenberge sind die Quelle des Rotwassers, welches die Grenze zum Land Rhûn im Osten bildet. Credits: _Haldir_ \n Anzahl von Spielern: 3 \n Startpositionen: Lager \n Erweiterungspunkte: 1 \n Siedlungen: 9 \n Horte: Trolle und Orks"
+End
+
+Map:MAPMPLamedon
+"Lamedon"
+End
+
+Map:MAPMPLamedon/Desc
+"Ein Vorgebirge direkt südlich der Weißen Berge. Credits: TheFoeHammer \n Anzahl von Spielern: 8 \n Startpositionen: Festungen \n Erweiterungspunkte: 4 \n Siedlungen: 16 \n Horte: Orks, Trolle und Warge"
+End
+
+Map:MAPMPLossarnach
+"Lossarnach"
+End
+
+Map:MAPMPLossarnach/Desc
+"Lossarnach ist ein Lehensgebiet im Süden Gondors und liegt zu Füßen der Weißen Berge. Seine üppigen Wiesen sind voller Blumen. Credits: _Haldir_ \n Anzahl von Spielern: 6 \n Startpositionen: Lager \n Erweiterungspunkte: 2 \n Siedlungen: 16 \n Horte: Orks und Warge"
+End
+
+Map:MAPMPMinhiriath
+"Minhiriath"
+End
+
+Map:MAPMPMinhiriath/Desc
+"Minhiriath liegt zwischen der Grauflut und dem Brandiweinfluss in Eriador. Einst war es bevölkert, doch seit langem liegt es in Ruinen. Credits: _Haldir_ \n Anzahl von Spielern: 7 \n Startpositionen: Festungen \n Erweiterungspunkte: 2 \n Siedlungen: 21 \n Horte: Warge  und Trolle"
+End
+
+Map:MAPMPOldFordOfAnduin
+"Die alten Furten des Anduin"
+End
+
+Map:MAPMPOldFordOfAnduin/Desc
+"Der Anduin fliesst zwischen dem Nebelgebirge und dem Düsterwald. Diese Furt ist Teil einer längst verlassenen Strasse. Credits: m@tt \n Anzahl von Spielern: 4 \n Startpositionen: Festungen \n Erweiterungspunkte: 2 \n Siedlungen: 16 \n Horte: Orks und Warge"
+End
+
+Map:MAPMPSouthRhun
+"Südliches Rhûn"
+End
+
+Map:MAPMPSouthRhun/Desc
+"Die Kämpfer aus Rhûn reisten in dieses staubige Land um sich zu sammeln und sich mit den Armeen von Khand und Harad zu vereinen. Credits: Dennis Agodzo \n Anzahl von Spielern: 6 \n Startpositionen: Lager \n Erweiterungspunkte: 2 \n Siedlungen: 10 \n Horte: Orks und Trolle"
+End
+
+Map:MAPMPTharbad
+"Tharbad"
+End
+
+Map:MAPMPTharbad/Desc
+"Die alte Straße nach Süden läuft durch die uralte, längst zerstörte Stadt Tharbad. Statt der einst gewaltigen Brücke befindet sich hier heute eine gefährliche Furt. \n Anzahl von Spielern: 3 \n Startpositionen: Festungen \n Erweiterungspunkte: 1 \n Siedlungen: 15 \n Horte: Orks und Trolle"
+End
