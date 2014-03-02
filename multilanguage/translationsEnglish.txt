@@ -72,7 +72,7 @@ CONTROLBAR:ConstructOutpost
 End
 
 CONTROLBAR:EyeofSauron
-"(&y)Eye of Sauron"
+"E&ye of Sauron"
 End
 
 CONTROLBAR:GandalfTheWhiteRecruit
@@ -84,7 +84,7 @@ CONTROLBAR:GondorAragornRecruit
 End
 
 CONTROLBAR:GuardUnit
-"(&U)Guard Unit"
+"Guard &Unit"
 End
 
 CONTROLBAR:RohanGimliRecruit
