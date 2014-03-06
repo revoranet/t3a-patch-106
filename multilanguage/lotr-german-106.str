@@ -24115,7 +24115,7 @@ Map:MAPMPAnfalas
 End
 
 Map:MAPMPAnfalas/Desc
-	"Eine lang gezogene Küstenlandschaft im Norden der Bucht von Belfalas. \n Anzahl der Spieler: 6 \n Startpositionen: Lager \n Erweiterungspunkte: 7 \n Siedlungen: 12 \n Höhlen: Trolle \n Beschränkungen: Keine Belagerungsleitern und Türme \n"
+	"Eine lang gezogene Küstenlandschaft im Norden der Bucht von Belfalas. \n Spielerzahl: 6 \n Startpositionen: Lager \n Expansionspunkte: 7 \n Ansiedlungen: 12 \n Lager: Trolle \n Beschränkungen: Keine Belagerungsleitern und Türme \n"
 End
 
 Map:MAPMPAnorien
@@ -31939,7 +31939,7 @@ Map:MAPMPAndrast
 End
 
 Map:MAPMPAndrast/Desc
-"Die südwestliche Grenze von Gondor zwischen der Bucht von Belfalas und dem großen Meer. Credits: Rimli \n Anzahl von Spielern: 2 \n Startpositionen: Festungen \n Erweiterungspunkte:2 \n Siedlungen: 8 \n Horte: Warge"
+"Die südwestliche Grenze von Gondor zwischen der Bucht von Belfalas und dem großen Meer. Credits: Rimli \n Spielerzahl: 2 \n Startpositionen: Festungen \n Expansionspunkte:2 \n Ansiedlungen: 8 \n Lager: Warge"
 End
 
 Map:MAPMPCarnen
@@ -31947,7 +31947,7 @@ Map:MAPMPCarnen
 End
 
 Map:MAPMPCarnen/Desc
-"Der Carnen fliesst die Eisernen Berge herunter. Er ist bekannt als Rotwasser, da ihm das Eisen aus dem Gebirgsgestein einen Rotstich verleiht. Credits: m@tt \n Anzahl von Spielern: 2 \n Startpositionen: Festungen \n Erweiterungspunkte: 2 \n Siedlungen: 8 \n Horte: Orks und Warge"
+"Der Carnen fließt die Eisenberge herunter. Er ist bekannt als Rotwasser, da ihm das Eisen aus dem Gebirgsgestein einen Rotstich verleiht. Credits: m@tt \n Spielerzahl: 2 \n Startpositionen: Festungen \n Expansionspunkte: 2 \n Ansiedlungen: 8 \n Lager: Orks und Warge"
 End
 
 Map:MAPMPCarrock
@@ -31955,7 +31955,7 @@ Map:MAPMPCarrock
 End
 
 Map:MAPMPCarrock/Desc
-"Ein großer Stein ragt aus dem Anduin. Beorn meisselte Treppen in ihn hinein und nannte ihn Carrock. Credits: BadMadMax \n Anzahl von Spielern: 2 \n Startpositionen: Festungen \n Erweiterungspunkte: 2 \n Siedlungen: 9 \n Horte: Trolle, Orks und Warge"
+"Ein großer Stein ragt aus dem Anduin. Beorn meisselte Treppen in ihn hinein und nannte ihn Carrock. Credits: BadMadMax \n Spielerzahl: 2 \n Startpositionen: Festungen \n Expansionspunkte: 2 \n Ansiedlungen: 9 \n Lager: Trolle, Orks und Warge"
 End
 
 Map:MAPMPDesolationOfSmaug
@@ -31963,7 +31963,7 @@ Map:MAPMPDesolationOfSmaug
 End
 
 Map:MAPMPDesolationOfSmaug/Desc
-"Dieses Ödland wurde durch den Drachen Smaug geformt, der die Landschaft um den einsamen Berg zerstörte. Credits: _Haldir_ \n Anzahl von Spielern: 5 \n Startpositionen: Lager \n Erweiterungspunkte: 5 \n Siedlungen: 15 \n Horte: Orks und Trolle"
+"Dieses Ödland wurde durch den Drachen Smaug geformt, der die Landschaft um den Einsamen Berg zerstörte. Credits: _Haldir_ \n Spielerzahl: 5 \n Startpositionen: Lager \n Expansionspunkte: 5 \n Ansiedlungen: 15 \n Lager: Orks und Trolle"
 End
 
 Map:MAPMPDimrillDale
@@ -31971,7 +31971,7 @@ Map:MAPMPDimrillDale
 End
 
 Map:MAPMPDimrillDale/Desc
-"Außerhalb des großen Osttores von Moria liegt der Spiegelsee, umgeben von einem steinigen und bewaldetem Tal. Credits: m@tt \n Anzahl von Spielern: 6 \n Startpositionen: Festungen \n Siedlungen: 18 \n Horte: Trolle, Orks und Warge"
+"Außerhalb des großen Osttores von Moria liegt der Spiegelsee, umgeben von einem steinigen und bewaldeten Tal. Credits: m@tt \n Spielerzahl: 6 \n Startpositionen: Festungen \n Ansiedlungen: 18 \n Lager: Trolle, Orks und Warge"
 End
 
 Map:MAPMPDruwaithIaurWE
@@ -31979,7 +31979,7 @@ Map:MAPMPDruwaithIaurWE
 End
 
 Map:MAPMPDruwaithIaurWE/Desc
-"Diese Täler westlich von Gondor gehören den geheimnisollen Druédain. Credits: Naugrim \n Anzahl von Spielern: 2 \n Startpositionen: Festungen \n Erweiterungspunkte: 3 \n Siedlungen: 8 \n Horte: Trolle und Warge"
+"Diese Täler westlich von Gondor sind Heimat der geheimnisvollen Druédain. Credits: Naugrim \n Spielerzahl: 2 \n Startpositionen: Festungen \n Expansionspunkte: 3 \n Ansiedlungen: 8 \n Lager: Trolle und Warge"
 End
 
 Map:MAPMPDunland
@@ -31987,7 +31987,7 @@ Map:MAPMPDunland
 End
 
 Map:MAPMPDunland/Desc
-"Westlich des Nebelgebirges liegt das hügelige Dunland, dessen kriegerisches Volk unter dem dunklen Einfluss von Isengart steht. Credits: _Haldir_ \n Anzahl von Spielern: 7 \n Startpositionen: Lager \n Erweiterungspunkte: 3 \n Siedlungen: 7 \n Horte: Trolle und Warge"
+"Westlich des Nebelgebirges liegt das hügelige Dunland, dessen kriegerisches Volk unter dem dunklen Einfluss von Isengart steht. Credits: _Haldir_ \n Spielerzahl: 7 \n Startpositionen: Lager \n Expansionspunkte: 3 \n Ansiedlungen: 7 \n Lager: Trolle und Warge"
 End
 
 Map:MAPMPEregion
@@ -31995,7 +31995,7 @@ Map:MAPMPEregion
 End
 
 Map:MAPMPEregion/Desc
-"Eregon war einst das Land der Elbenschmiede, welche die machtvollen Ringe fertigten. Mittlerweile ist es verlassen und zerstört. Credits: Lex Flores \n Anzahl von Spielern: 4 \n Startpositionen: Festungen und Lager \n Siedlungen: 8 \n Horte: Orks und Warge "
+"Eregion war einst das Land der Elbenschmiede, welche die Ringe der Macht fertigten. Mittlerweile ist es verlassen und zerstört. Credits: Lex Flores \n Spielerzahl: 4 \n Startpositionen: Festungen und Lager \n Ansiedlungen: 8 \n Lager: Orks und Warge"
 End
 
 Map:MAPMPFordsOfBruinen
@@ -32003,7 +32003,7 @@ Map:MAPMPFordsOfBruinen
 End
 
 Map:MAPMPFordsOfBruinen/Desc
-"Der Bruinen entspringt im Nebelgebirge und umgibt die Elbensiedlung von Bruchtal. Credits: m@tt \n Anzahl von Spielern: 4 \n Startpositionen: Festungen \n Erweiterungspunkte: 4 \n Siedlungen: 10 \n Horte: Trolle und Orks"
+"Der Bruinen entspringt im Nebelgebirge und umgibt die Elbensiedlung von Bruchtal. Credits: m@tt \n Spielerzahl: 4 \n Startpositionen: Festungen \n Expansionspunkte: 4 \n Ansiedlungen: 10 \n Lager: Trolle und Orks"
 End
 
 Map:MAPMPIronHills
@@ -32011,7 +32011,7 @@ Map:MAPMPIronHills
 End
 
 Map:MAPMPIronHills/Desc
-"Die Eisenberge sind die Quelle des Rotwassers, welches die Grenze zum Land Rhûn im Osten bildet. Credits: _Haldir_ \n Anzahl von Spielern: 3 \n Startpositionen: Lager \n Erweiterungspunkte: 1 \n Siedlungen: 9 \n Horte: Trolle und Orks"
+"Die Eisenberge sind die Quelle des Rotwassers, welches die Grenze zum Land Rhûn im Osten bildet. Credits: _Haldir_ \n Spielerzahl: 3 \n Startpositionen: Lager \n Expansionspunkte: 1 \n Ansiedlungen: 9 \n Lager: Trolle und Orks"
 End
 
 Map:MAPMPLamedon
@@ -32019,7 +32019,7 @@ Map:MAPMPLamedon
 End
 
 Map:MAPMPLamedon/Desc
-"Ein Vorgebirge direkt südlich der Weißen Berge. Credits: TheFoeHammer \n Anzahl von Spielern: 8 \n Startpositionen: Festungen \n Erweiterungspunkte: 4 \n Siedlungen: 16 \n Horte: Orks, Trolle und Warge"
+"Ein Vorgebirge direkt südlich der Weißen Berge. Credits: TheFoeHammer \n Spielerzahl: 8 \n Startpositionen: Festungen \n Expansionspunkte: 4 \n Ansiedlungen: 16 \n Lager: Orks, Trolle und Warge"
 End
 
 Map:MAPMPLossarnach
@@ -32027,7 +32027,7 @@ Map:MAPMPLossarnach
 End
 
 Map:MAPMPLossarnach/Desc
-"Lossarnach ist ein Lehensgebiet im Süden Gondors und liegt zu Füßen der Weißen Berge. Seine üppigen Wiesen sind voller Blumen. Credits: _Haldir_ \n Anzahl von Spielern: 6 \n Startpositionen: Lager \n Erweiterungspunkte: 2 \n Siedlungen: 16 \n Horte: Orks und Warge"
+"Lossarnach ist ein Lehensgebiet im Süden Gondors und liegt zu Füßen der Weißen Berge. Seine üppigen Wiesen sind voller Blumen. Credits: _Haldir_ \n Spielerzahl: 6 \n Startpositionen: Lager \n Expansionspunkte: 2 \n Ansiedlungen: 16 \n Lager: Orks und Warge"
 End
 
 Map:MAPMPMinhiriath
@@ -32035,7 +32035,7 @@ Map:MAPMPMinhiriath
 End
 
 Map:MAPMPMinhiriath/Desc
-"Minhiriath liegt zwischen der Grauflut und dem Brandiweinfluss in Eriador. Einst war es bevölkert, doch seit langem liegt es in Ruinen. Credits: _Haldir_ \n Anzahl von Spielern: 7 \n Startpositionen: Festungen \n Erweiterungspunkte: 2 \n Siedlungen: 21 \n Horte: Warge  und Trolle"
+"Minhiriath liegt zwischen der Grauflut und dem Brandyweinfluss in Eriador. Einst war es bevölkert, doch seit langem liegt es in Ruinen. Credits: _Haldir_ \n Spielerzahl: 7 \n Startpositionen: Festungen \n Expansionspunkte: 2 \n Ansiedlungen: 21 \n Lager: Warge  und Trolle"
 End
 
 Map:MAPMPOldFordOfAnduin
@@ -32043,7 +32043,7 @@ Map:MAPMPOldFordOfAnduin
 End
 
 Map:MAPMPOldFordOfAnduin/Desc
-"Der Anduin fliesst zwischen dem Nebelgebirge und dem Düsterwald. Diese Furt ist Teil einer längst verlassenen Strasse. Credits: m@tt \n Anzahl von Spielern: 4 \n Startpositionen: Festungen \n Erweiterungspunkte: 2 \n Siedlungen: 16 \n Horte: Orks und Warge"
+"Der Anduin fließt zwischen dem Nebelgebirge und dem Düsterwald. Diese Furt ist Teil einer längst verlassenen Strasse. Credits: m@tt \n Spielerzahl: 4 \n Startpositionen: Festungen \n Expansionspunkte: 2 \n Ansiedlungen: 16 \n Lager: Orks und Warge"
 End
 
 Map:MAPMPSouthRhun
@@ -32051,7 +32051,7 @@ Map:MAPMPSouthRhun
 End
 
 Map:MAPMPSouthRhun/Desc
-"Die Kämpfer aus Rhûn reisten in dieses staubige Land um sich zu sammeln und sich mit den Armeen von Khand und Harad zu vereinen. Credits: Dennis Agodzo \n Anzahl von Spielern: 6 \n Startpositionen: Lager \n Erweiterungspunkte: 2 \n Siedlungen: 10 \n Horte: Orks und Trolle"
+"Die Kämpfer aus Rhûn reisten in dieses staubige Land um sich zu sammeln und sich mit den Armeen von Khand und Harad zu vereinen. Credits: Dennis Agodzo \n Spielerzahl: 6 \n Startpositionen: Lager \n Expansionspunkte: 2 \n Ansiedlungen: 10 \n Lager: Orks und Trolle"
 End
 
 Map:MAPMPTharbad
@@ -32059,5 +32059,5 @@ Map:MAPMPTharbad
 End
 
 Map:MAPMPTharbad/Desc
-"Die alte Straße nach Süden läuft durch die uralte, längst zerstörte Stadt Tharbad. Statt der einst gewaltigen Brücke befindet sich hier heute eine gefährliche Furt. \n Anzahl von Spielern: 3 \n Startpositionen: Festungen \n Erweiterungspunkte: 1 \n Siedlungen: 15 \n Horte: Orks und Trolle"
+"Die alte Straße nach Süden läuft durch die uralte, längst zerstörte Stadt Tharbad. Statt der einst gewaltigen Brücke befindet sich hier heute eine gefährliche Furt. \n Spielerzahl: 3 \n Startpositionen: Festungen \n Expansionspunkte: 1 \n Ansiedlungen: 15 \n Lager: Orks und Trolle"
 End
